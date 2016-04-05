@@ -4,8 +4,8 @@ import abstractfactory.AbstractFactory;
 import impl.Blue;
 import impl.Green;
 import impl.Red;
-import interfaces.Color;
-import interfaces.Shape;
+import inter.Color;
+import inter.Shape;
 
 public class ColorFactory extends AbstractFactory {
 

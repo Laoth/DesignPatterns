@@ -1,8 +1,8 @@
 
 
 import abstractfactory.AbstractFactory;
-import interfaces.Color;
-import interfaces.Shape;
+import inter.Color;
+import inter.Shape;
 import producer.FactoryProducer;
 
 public class AbstractFactoryPatternDemo {

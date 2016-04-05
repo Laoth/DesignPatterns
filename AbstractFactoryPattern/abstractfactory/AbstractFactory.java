@@ -1,7 +1,7 @@
 package abstractfactory;
 
-import interfaces.Color;
-import interfaces.Shape;
+import inter.Color;
+import inter.Shape;
 
 public abstract class AbstractFactory {
 

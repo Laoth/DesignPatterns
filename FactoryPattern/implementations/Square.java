@@ -1,6 +1,6 @@
-package com.designpattern.creational.implementations;
+package implementations;
 
-import com.designpattern.creational.interfaces.Shape;
+import inter.Shape;
 
 public class Square implements Shape {
 

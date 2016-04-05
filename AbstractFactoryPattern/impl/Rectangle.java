@@ -1,5 +1,5 @@
 package impl;
-import interfaces.Shape;
+import inter.Shape;
 
 public class Rectangle implements Shape {
 

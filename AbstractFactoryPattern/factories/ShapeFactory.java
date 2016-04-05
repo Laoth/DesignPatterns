@@ -4,12 +4,10 @@ import abstractfactory.AbstractFactory;
 import impl.Circle;
 import impl.Rectangle;
 import impl.Square;
-import interfaces.Color;
-import interfaces.Shape;
+import inter.Color;
+import inter.Shape;
 
 public class ShapeFactory extends AbstractFactory {
-
-	
 
 	@Override
 	public Shape getShape(String typeShape) {

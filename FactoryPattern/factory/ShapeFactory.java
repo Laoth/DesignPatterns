@@ -1,9 +1,9 @@
-package com.designpattern.creational.factories;
+package factory;
 
-import com.designpattern.creational.implementations.Circle;
-import com.designpattern.creational.implementations.Rectangle;
-import com.designpattern.creational.implementations.Square;
-import com.designpattern.creational.interfaces.Shape;
+import implementations.Circle;
+import implementations.Rectangle;
+import implementations.Square;
+import inter.Shape;
 
 public class ShapeFactory {
 	public Shape getShape(String typeShape){

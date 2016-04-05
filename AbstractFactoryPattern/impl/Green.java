@@ -1,6 +1,6 @@
 package impl;
 
-import interfaces.Color;
+import inter.Color;
 
 public class Green implements Color {
 
